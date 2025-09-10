@@ -1,3 +1,4 @@
+This is a repo following a Youtube tutorial by Kaupenjoe for Minecraft Forge mod development.
 
 Source installation information for modders
 -------------------------------------------
